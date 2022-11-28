@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "906673188871",
+    "project_id": "hotlinecafe-8b536",
+    "storage_bucket": "hotlinecafe-8b536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906673188871:android:bd8c17ab57684bc06f3aa2",
+        "android_client_info": {
+          "package_name": "com.hotlinecafe.hotlinecafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906673188871-afdbe1t3b1nhejvnn4uco9ksciuop913.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfvKpJm_bQasXG7xI3CZmp-DuYW0ciCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906673188871-afdbe1t3b1nhejvnn4uco9ksciuop913.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906673188871-3k87u81vmolgtc1nhjjlr44eu1q0hd1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hotlinecafee.hotlinecafee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906673188871:android:8fdaa6ff0811cf0f6f3aa2",
+        "android_client_info": {
+          "package_name": "com.hotlinecafee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906673188871-bc6p24ffke3vlmnvte8aapa588ab85vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hotlinecafee",
+            "certificate_hash": "b2a7f5d116c8b959e62cbe5238d93973c8058f0e"
+          }
+        },
+        {
+          "client_id": "906673188871-afdbe1t3b1nhejvnn4uco9ksciuop913.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfvKpJm_bQasXG7xI3CZmp-DuYW0ciCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906673188871-afdbe1t3b1nhejvnn4uco9ksciuop913.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906673188871-3k87u81vmolgtc1nhjjlr44eu1q0hd1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hotlinecafee.hotlinecafee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
